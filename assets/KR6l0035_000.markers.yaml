@@ -1,0 +1,841 @@
+canonical_identifier: bkk:krp/KR6l0035/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6l0035_T_000-0453a, 'n': 0453a, ed: T, source_xml_id: T41.1822.0453a}
+  - {type: line-break, offset: 0, content: '', id: KR6l0035_T_000-0453a01, ed: T, 'n': 0453a01}
+  - {type: line-break, offset: 0, content: '', id: KR6l0035_T_000-0453a02, ed: T, 'n': 0453a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6l0035_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6l0035_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6l0035_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6l0035_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6l0035_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '2', id: KR6l0035_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '2', id: KR6l0035_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6l0035_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6l0035_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6l0035_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6l0035_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6l0035_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6l0035_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6l0035_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6l0035_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '5', id: KR6l0035_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '5', id: KR6l0035_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '8', id: KR6l0035_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6l0035_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6l0035_T_000-0453a03, ed: T, 'n': 0453a03}
+  - {type: variant, offset: 0, length: 1, content: 沙, 甲: 佛授記寺沙}
+  - {type: variant, offset: 0, length: 1, content: 沙, 甲: 佛授記寺沙}
+  - {type: variant, offset: 2, length: 1, content: 法, 乙: 釋法}
+  - {type: variant, offset: 2, length: 1, content: 法, 乙: 釋法}
+  - {type: variant, offset: 15, length: 1, content: 會, 原: '', 甲: '', 乙: ''}
+  - {type: variant, offset: 26, length: 1, content: 分, 甲: 分別, 乙: 分別}
+  - {type: variant, offset: 34, length: 1, content: 段, 甲: 數, 乙: 數}
+  - {type: variant, offset: 57, length: 1, content: 頌, 原: 頌辨五色, 甲: 頌辨五色, 乙: 頌辨五色}
+  - {type: variant, offset: 61, length: 1, content: 一, 甲: 一種, 乙: 一種}
+  - {type: variant, offset: 97, length: 1, content: 此, 甲: 此品, 乙: 此下}
+  - {type: variant, offset: 297, length: 1, content: 斷, 甲: 改, 乙: 改}
+  - {type: variant, offset: 300, length: 1, content: 訖, 甲: 說, 乙: 說}
+  - {type: variant, offset: 494, length: 1, content: 蜜, 甲: 密, 乙: 密}
+  - {type: variant, offset: 522, length: 1, content: 甚, 甲: 皆, 乙: 皆}
+  - {type: variant, offset: 551, length: 1, content: 其, 乙: 其義}
+  - {type: variant, offset: 592, length: 1, content: 栗《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第4圖左欄第10行）T41n1822_p0453b12, 大: 粟, 甲: 栗, 乙: 栗}
+  - {type: variant, offset: 607, length: 1, content: 栗《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第5圖右欄第1行）T41n1822_p0453b12, 大: 粟}
+  - {type: variant, offset: 623, length: 1, content: 甚, 甲: 其, 乙: 其}
+  - {type: variant, offset: 640, length: 1, content: 違, 大: 連}
+  - {type: variant, offset: 644, length: 1, content: 詳, 乙: 證}
+  - {type: variant, offset: 645, length: 1, content: 云, 甲: 言, 乙: 言}
+  - {type: variant, offset: 715, length: 1, content: 唯, 甲: 准, 乙: 准}
+  - {type: variant, offset: 716, length: 1, content: 准, 甲: 唯, 乙: 唯}
+  - {type: variant, offset: 742, length: 1, content: 三, 大: 二}
+  - {type: variant, offset: 792, length: 1, content: 停, 甲: 停等, 乙: 停等}
+  - {type: variant, offset: 794, length: 1, content: 九, 甲: 第九, 乙: 第九}
+  - {type: variant, offset: 846, length: 1, content: 頌, 乙: 頌曰至觸十一為性頌}
+  - {type: variant, offset: 865, length: 1, content: 明, 甲: 明故, 乙: 明故}
+  - {type: variant, offset: 899, length: 1, content: 段, 甲: 數, 乙: 數}
+  - {type: variant, offset: 905, length: 1, content: 段, 甲: 數, 乙: 數}
+  - {type: variant, offset: 933, length: 2, content: 五月, 甲: '', 乙: ''}
+  - {type: variant, offset: 1012, length: 1, content: 末, 甲: 未, 乙: 未}
+  - {type: variant, offset: 1104, length: 1, content: 經, 甲: 經言, 乙: 經言}
+  - {type: variant, offset: 1194, length: 1, content: 即, 甲: 非即, 乙: 非即}
+  - {type: variant, offset: 1254, length: 1, content: 似, 乙: 以}
+  - {type: variant, offset: 1316, length: 1, content: 三, 原: 二, 甲: 二, 乙: 二}
+  - {type: variant, offset: 1335, length: 1, content: 已, 甲: 已即, 乙: 已即}
+  - {type: variant, offset: 1354, length: 1, content: 王, 甲: 天, 乙: 天}
+  - {type: variant, offset: 1357, length: 1, content: 遶, 甲: 繞, 乙: 繞}
+  - {type: variant, offset: 1363, length: 1, content: 等, 原: 尊}
+  - {type: variant, offset: 1366, length: 3, content: 對有部, 乙: 有部對}
+  - {type: variant, offset: 1387, length: 1, content: 起, 甲: 別起, 乙: 別起}
+  - {type: variant, offset: 1424, length: 1, content: 女《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第6圖左欄第10行）, 大: 如, 甲: 女, 乙: 女}
+  - {type: variant, offset: 1427, length: 1, content: 食, 甲: 過食, 乙: 過食}
+  - {type: variant, offset: 1442, length: 1, content: 少, 甲: 多, 乙: 多}
+  - {type: variant, offset: 1471, length: 1, content: 各, 甲: 有, 乙: 有}
+  - {type: variant, offset: 1497, length: 1, content: 微, 甲: 聚, 乙: 聚}
+  - {type: variant, offset: 1512, length: 1, content: 迷, 甲: 述, 乙: 述}
+  - {type: variant, offset: 1515, length: 1, content: 多, 甲: 多生, 乙: 多生}
+  - {type: variant, offset: 1520, length: 1, content: 少, 甲: 少生, 乙: 少生}
+  - {type: variant, offset: 1587, length: 1, content: 即, 甲: 之, 乙: 之}
+  - {type: variant, offset: 1604, length: 1, content: 八, 大: 七}
+  - {type: variant, offset: 1641, length: 1, content: 微, 甲: 聚, 乙: 聚}
+  - {type: variant, offset: 1644, length: 1, content: 識, 甲: 色, 乙: 色}
+  - {type: variant, offset: 1654, length: 1, content: 唯, 甲: 明, 乙: 明}
+  - {type: variant, offset: 1672, length: 1, content: 邊, 甲: 色, 乙: 色}
+  - {type: variant, offset: 1700, length: 1, content: 輪, 乙: 轉}
+  - {type: variant, offset: 1716, length: 2, content: 別有, 甲: 各別, 乙: 各別}
+  - {type: variant, offset: 1730, length: 1, content: 上, 大: 下}
+  - {type: variant, offset: 1770, length: 2, content: 此、彼, 甲: 彼此, 乙: 彼此}
+  - {type: variant, offset: 1782, length: 1, content: 唱, 甲: 嗢, 乙: 嗢}
+  - {type: variant, offset: 1799, length: 1, content: 唱, 甲: 嗢, 乙: 嗢}
+  - {type: variant, offset: 1800, length: 1, content: 違, 甲: 相違, 乙: 相違}
+  - {type: variant, offset: 1822, length: 1, content: 來, 甲: 成, 乙: 成}
+  - {type: variant, offset: 1839, length: 1, content: 鹽, 乙: 𭏨}
+  - {type: variant, offset: 1854, length: 1, content: 苽, 甲: 瓜, 乙: 瓜}
+  - {type: variant, offset: 1887, length: 1, content: 藍, 甲: 監, 乙: 監}
+  - {type: variant, offset: 1895, length: 1, content: 針, 大: 棗}
+  - {type: variant, offset: 1897, length: 1, content: 對, 乙: 二對}
+  - {type: variant, offset: 1910, length: 1, content: 棗, 甲: 棗等, 乙: 棗等}
+  - {type: variant, offset: 1925, length: 2, content: 彼命《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第8圖右欄第4行）, 大: 彼, 甲: 彼命, 乙: 彼命}
+  - {type: variant, offset: 2000, length: 1, content: 曰, 甲: 云, 乙: 云}
+  - {type: variant, offset: 2007, length: 1, content: 違, 甲: 言違, 乙: 言違}
+  - {type: variant, offset: 2070, length: 1, content: 長, 乙: 長見短}
+  - {type: variant, offset: 2072, length: 30, content: 爾，有長有短同時相形＝形相【甲】【乙】相形【大】，形相【甲】【乙】相形形相，應見長見短。若無長短相形之時，應物不見長短二色, 乙: 爾有長有短同時相形應見長見短若無長短相形之時應物不見長短二色}
+  - {type: variant, offset: 2079, length: 2, content: 相形, 甲: 形相, 乙: 形相}
+  - {type: variant, offset: 2088, length: 1, content: 然, 甲: 能, 乙: 能}
+  - {type: variant, offset: 2145, length: 1, content: 知, 甲: 甚, 乙: 甚}
+  - {type: variant, offset: 2173, length: 1, content: 者, 甲: '', 乙: ''}
+  - {type: variant, offset: 2221, length: 1, content: 上, 甲: 下, 乙: 下}
+  - {type: variant, offset: 2227, length: 1, content: 足, 甲: 力, 乙: 力}
+  - {type: variant, offset: 2246, length: 1, content: 喜, 甲: 右, 乙: 右}
+  - {type: variant, offset: 2311, length: 1, content: 念, 原: 志}
+  - {type: variant, offset: 2322, length: 1, content: 當, 乙: 不}
+  - {type: variant, offset: 2328, length: 1, content: 勿《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第9圖右欄第3行）T27n1545_p0914b13, 大: 勿}
+  - {type: variant, offset: 2337, length: 1, content: 敷, 甲: 敷教人, 乙: 敷教人}
+  - {type: variant, offset: 2341, length: 2, content: 任其T27n1545_p0914b14, 大: 任其, 甲: 住其, 乙: 住其}
+  - {type: variant, offset: 2395, length: 1, content: 恭, 甲: 奉, 乙: 奉}
+  - {type: variant, offset: 2399, length: 1, content: 也, 甲: 色, 乙: 色}
+  - {type: variant, offset: 2401, length: 1, content: 俱, 甲: '', 乙: ''}
+  - {type: variant, offset: 2409, length: 1, content: 難, 甲: 雜, 乙: 雜}
+  - {type: variant, offset: 2410, length: 1, content: 便, 甲: 復, 乙: 復}
+  - {type: variant, offset: 2410, length: 1, content: 即, 甲: '', 乙: ''}
+  - {type: variant, offset: 2443, length: 1, content: 宗, 甲: 標宗, 乙: 標宗}
+  - {type: variant, offset: 2449, length: 2, content: 誘化, 甲: 化誘, 乙: 化誘}
+  - {type: variant, offset: 2515, length: 1, content: 性, 甲: 往, 乙: 往}
+  - {type: variant, offset: 2561, length: 1, content: 憍, 甲: '', 乙: ''}
+  - {type: variant, offset: 2571, length: 1, content: 等, 甲: 等相, 乙: 等相}
+  - {type: variant, offset: 2581, length: 1, content: 知, 甲: 短, 乙: 短}
+  - {type: variant, offset: 2589, length: 1, content: 唯, 甲: 明, 乙: 明}
+  - {type: variant, offset: 2594, length: 1, content: 等, 大: 廣}
+  - {type: variant, offset: 2629, length: 4, content: 二七日觀, 原: ''}
+  - {type: variant, offset: 2642, length: 1, content: 聚, 甲: 微聚, 乙: 微聚}
+  - {type: variant, offset: 2651, length: 1, content: 行, 甲: 經行, 乙: 經行}
+  - {type: variant, offset: 2686, length: 1, content: 畫, 甲: 壁畫, 乙: 壁畫}
+  - {type: variant, offset: 2724, length: 1, content: 少, 乙: 小}
+  - {type: variant, offset: 2734, length: 1, content: 釋, 甲: 釋迦, 乙: 釋迦}
+  - {type: variant, offset: 2760, length: 1, content: 也, 甲: 色, 乙: 色}
+  - {type: variant, offset: 2772, length: 1, content: 形, 甲: 望, 乙: 望}
+  - {type: variant, offset: 2777, length: 1, content: 唯, 甲: 明, 乙: 明}
+  - {type: variant, offset: 2795, length: 1, content: 餘, 甲: 餘色, 乙: 餘色}
+  - {type: variant, offset: 2796, length: 1, content: 所, 乙: 何}
+  - {type: variant, offset: 2863, length: 1, content: 者, 甲: '', 乙: ''}
+  - {type: variant, offset: 2882, length: 1, content: 經, 甲: '', 乙: ''}
+  - {type: variant, offset: 2884, length: 2, content: 所說, 甲: '', 乙: ''}
+  - {type: variant, offset: 2896, length: 2, content: 謂從, 甲: '', 乙: ''}
+  - {type: variant, offset: 2901, length: 4, content: 所生不住, 甲: '', 乙: ''}
+  - {type: variant, offset: 2906, length: 1, content: 流, 甲: '', 乙: ''}
+  - {type: variant, offset: 2907, length: 1, content: 大, 甲: 所緣大, 乙: 所緣大}
+  - {type: variant, offset: 2909, length: 1, content: 果, 甲: 所造有, 乙: 所造有}
+  - {type: variant, offset: 2928, length: 2, content: 生所, 甲: 所生, 乙: 所生}
+  - {type: variant, offset: 2988, length: 1, content: 第, 甲: 等, 乙: 等}
+  - {type: variant, offset: 2991, length: 1, content: 唯, 甲: 明, 乙: 明}
+  - {type: variant, offset: 3009, length: 1, content: 漸, 甲: 輕, 乙: 輕}
+  - {type: variant, offset: 3137, length: 2, content: 道已, 乙: 道已}
+  - {type: variant, offset: 3174, length: 1, content: 謂, 甲: '', 乙: ''}
+  - {type: variant, offset: 3189, length: 1, content: 因, 乙: ''}
+  - {type: variant, offset: 3206, length: 1, content: 更, 甲: 更經, 乙: 更經}
+  - {type: variant, offset: 3259, length: 1, content: 座, 原: 處, 甲: 處, 乙: 處}
+  - {type: variant, offset: 3328, length: 1, content: 八, 乙: 七}
+  - {type: variant, offset: 3390, length: 1, content: 影, 甲: 形, 乙: 形}
+  - {type: variant, offset: 3471, length: 1, content: 多, 甲: 兩, 乙: 兩}
+  - {type: variant, offset: 3502, length: 4, content: 云云。多喻, 甲: 多言喻, 乙: 多言喻}
+  - {type: variant, offset: 3508, length: 1, content: 隨, 乙: 陀}
+  - {type: variant, offset: 3520, length: 1, content: 谷, 乙: 答}
+  - {type: variant, offset: 3536, length: 1, content: 于, 甲: 其, 乙: 其}
+  - {type: variant, offset: 3542, length: 1, content: 于, 甲: 其, 乙: 其}
+  - {type: variant, offset: 3564, length: 1, content: 八, 大: 九}
+  - {type: variant, offset: 3569, length: 1, content: 別, 甲: 前, 乙: 前}
+  - {type: variant, offset: 3585, length: 1, content: 生, 甲: 聖, 乙: 聖}
+  - {type: variant, offset: 3602, length: 1, content: 應, 甲: 當, 乙: 當}
+  - {type: variant, offset: 3602, length: 1, content: 本, 甲: 影, 乙: 影}
+  - {type: variant, offset: 3620, length: 2, content: 方便, 甲: '', 乙: ''}
+  - {type: variant, offset: 3626, length: 3, content: 善友能, 甲: '', 乙: ''}
+  - {type: variant, offset: 3643, length: 1, content: 如, 甲: '', 乙: ''}
+  - {type: variant, offset: 3696, length: 1, content: 若, 甲: 著, 乙: 著}
+  - {type: variant, offset: 3697, length: 1, content: 能, 乙: 然}
+  - {type: variant, offset: 3711, length: 1, content: 墮, 大: 隨, 甲: 墮, 乙: 墮}
+  - {type: variant, offset: 3722, length: 1, content: 聲, 甲: 聲也, 乙: 聲也}
+  - {type: variant, offset: 3779, length: 1, content: 法, 乙: ''}
+  - {type: variant, offset: 3851, length: 1, content: 勞, 甲: 勞身, 乙: 勞身}
+  - {type: variant, offset: 3967, length: 1, content: 障, 甲: 彰, 乙: 彰}
+  - {type: variant, offset: 3985, length: 2, content: 二種, 甲: '', 乙: ''}
+  - {type: variant, offset: 3991, length: 1, content: 死, 乙: 無}
+  - {type: variant, offset: 3993, length: 1, content: 性, 甲: 性性, 乙: 性性}
+  - {type: variant, offset: 3999, length: 1, content: 聞, 甲: 因, 乙: 因}
+  - {type: variant, offset: 4022, length: 1, content: 已, 甲: 也, 乙: 也}
+  - {type: variant, offset: 4151, length: 1, content: 須, 甲: 論, 乙: 論}
+  - {type: variant, offset: 4307, length: 1, content: 小, 乙: 少}
+  - {type: variant, offset: 4310, length: 1, content: 且《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第13圖左欄第7行）, 大: 恩, 甲: 且, 乙: 且}
+  - {type: variant, offset: 4380, length: 1, content: 如《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第14圖右欄第1行）, 大: 及, 甲: 如, 乙: 如}
+  - {type: variant, offset: 4481, length: 1, content: 乘, 甲: '', 乙: ''}
+  - {type: variant, offset: 4481, length: 1, content: 故, 乙: ''}
+  - {type: variant, offset: 4484, length: 2, content: 法乘, 甲: '', 乙: ''}
+  - {type: variant, offset: 4512, length: 2, content: 深甚, 甲: 甚深, 乙: 甚深}
+  - {type: variant, offset: 4533, length: 1, content: 邊, 甲: 過, 乙: 過}
+  - {type: variant, offset: 4589, length: 1, content: 共, 甲: 之, 乙: 之}
+  - {type: variant, offset: 4597, length: 1, content: 百, 甲: 一百, 乙: 一百}
+  - {type: variant, offset: 4615, length: 1, content: 語, 甲: '', 乙: ''}
+  - {type: variant, offset: 4653, length: 2, content: 如是, 甲: '', 乙: ''}
+  - {type: variant, offset: 4655, length: 2, content: 詐稱, 甲: 誹謗, 乙: 誹謗}
+  - {type: variant, offset: 4660, length: 1, content: 等, 甲: '', 乙: ''}
+  - {type: variant, offset: 4671, length: 1, content: 修, 甲: 憎修, 乙: 憎修}
+  - {type: variant, offset: 4675, length: 1, content: 法, 甲: '', 乙: ''}
+  - {type: variant, offset: 4695, length: 1, content: 品, 甲: 下, 乙: 下}
+  - {type: variant, offset: 4703, length: 1, content: 四, 大: ''}
+  - {type: variant, offset: 4870, length: 1, content: 號, 乙: 學}
+  - {type: variant, offset: 4932, length: 1, content: 假, 甲: 毀, 乙: 毀}
+  - {type: variant, offset: 4939, length: 1, content: 而, 甲: 即, 乙: 即}
+  - {type: variant, offset: 4989, length: 1, content: 心, 乙: 以}
+  - {type: variant, offset: 5017, length: 6, content: 有二：一小乘法, 甲: '', 乙: ''}
+  - {type: variant, offset: 5024, length: 1, content: 疎, 甲: 揀, 乙: 揀}
+  - {type: variant, offset: 5072, length: 1, content: 入, 甲: 人, 乙: 人}
+  - {type: variant, offset: 5082, length: 1, content: 名, 甲: 為, 乙: 為}
+  - {type: variant, offset: 5083, length: 1, content: 不, 甲: '', 乙: ''}
+  - {type: variant, offset: 5109, length: 1, content: 而, 甲: 即, 乙: 即}
+  - {type: variant, offset: 5122, length: 2, content: 物親, 乙: 總觀}
+  - {type: variant, offset: 5129, length: 1, content: 尚, 甲: 當, 乙: 當}
+  - {type: variant, offset: 5168, length: 1, content: 異, 乙: 涅槃}
+  - {type: variant, offset: 5173, length: 1, content: 然, 甲: 能, 乙: 能}
+  - {type: variant, offset: 5174, length: 2, content: 於厭, 甲: 厭於, 乙: 厭於}
+  - {type: variant, offset: 5183, length: 1, content: 小, 甲: 少, 乙: 少}
+  - {type: variant, offset: 5212, length: 1, content: 所, 乙: 何}
+  - {type: variant, offset: 5249, length: 1, content: 並, 甲: 普, 乙: 普}
+  - {type: variant, offset: 5262, length: 1, content: 何《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第16圖右欄第2行）, 大: 行, 甲: 何, 乙: 何}
+  - {type: variant, offset: 5271, length: 1, content: 並, 甲: 普, 乙: 普}
+  - {type: variant, offset: 5281, length: 1, content: 邊, 乙: 過}
+  - {type: variant, offset: 5305, length: 1, content: 俱, 甲: 但, 乙: 但}
+  - {type: variant, offset: 5384, length: 1, content: 輒, 甲: 能, 乙: 能}
+  - {type: variant, offset: 5403, length: 1, content: 情, 甲: 情數, 乙: 情數}
+  - {type: variant, offset: 5423, length: 1, content: 善, 大: 寶}
+  - {type: variant, offset: 5473, length: 1, content: 本, 甲: '', 乙: ''}
+  - {type: variant, offset: 5557, length: 1, content: 末, 甲: 味, 乙: 味}
+  - {type: variant, offset: 5591, length: 1, content: 佛, 甲: '', 乙: ''}
+  - {type: variant, offset: 5597, length: 1, content: 唯, 甲: 准, 乙: 准}
+  - {type: variant, offset: 5603, length: 1, content: 彼, 甲: 被, 乙: 被}
+  - {type: variant, offset: 5641, length: 2, content: 婆沙, 甲: 依婆沙, 乙: 依婆沙}
+  - {type: variant, offset: 5821, length: 1, content: 導《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第17圖右欄第9行）, 大: 道, 甲: 導, 乙: 導}
+  - {type: variant, offset: 5849, length: 1, content: 作, 甲: 與作, 乙: 不作}
+  - {type: variant, offset: 5858, length: 2, content: 第五, 乙: 已下第五}
+  - {type: variant, offset: 5876, length: 2, content: 菩薩, 甲: '', 乙: ''}
+  - {type: variant, offset: 5881, length: 2, content: 三學, 甲: '', 乙: ''}
+  - {type: variant, offset: 5973, length: 1, content: 觸, 甲: 獨, 乙: 獨}
+  - {type: variant, offset: 6039, length: 1, content: 障, 甲: 彰, 乙: 彰}
+  - {type: variant, offset: 6073, length: 1, content: 種, 甲: 令種, 乙: 令種}
+  - {type: variant, offset: 6118, length: 1, content: 身, 乙: 內身}
+  - {type: variant, offset: 6137, length: 1, content: 飲, 甲: 飢, 乙: 飢}
+  - {type: variant, offset: 6168, length: 1, content: 皆, 甲: 三, 乙: 三}
+  - {type: variant, offset: 6215, length: 1, content: 各, 甲: 各別, 乙: 各別}
+  - {type: variant, offset: 6219, length: 1, content: 發, 甲: 為發, 乙: 為發}
+  - {type: variant, offset: 6268, length: 1, content: 段, 甲: 段食, 乙: 段食}
+  - {type: variant, offset: 6272, length: 1, content: 纜, 甲: 囕, 乙: 囕}
+  - {type: variant, offset: 6279, length: 1, content: 衣, 甲: 衣服, 乙: 衣服}
+  - {type: variant, offset: 6284, length: 1, content: 重, 甲: 量, 乙: 量}
+  - {type: variant, offset: 6286, length: 1, content: 少, 乙: 妙}
+  - {type: variant, offset: 6318, length: 1, content: 若, 甲: 答, 乙: 答}
+  - {type: variant, offset: 6343, length: 1, content: 王, 甲: 王天, 乙: 王天}
+  - {type: variant, offset: 6363, length: 1, content: 令, 甲: 為, 乙: 為}
+  - {type: variant, offset: 6364, length: 1, content: 入, 甲: 已入, 乙: 已入}
+  - {type: variant, offset: 6372, length: 1, content: 處, 甲: '', 乙: ''}
+  - {type: variant, offset: 6421, length: 1, content: 處, 甲: 處者, 乙: 處者}
+  - {type: variant, offset: 6468, length: 1, content: 答, 甲: '', 乙: ''}
+  - {type: variant, offset: 6479, length: 1, content: 能, 甲: '', 乙: ''}
+  - {type: variant, offset: 6496, length: 1, content: 藏, 甲: 三藏, 乙: 三藏}
+  - {type: variant, offset: 6597, length: 1, content: 者, 甲: 者者, 乙: 者者}
+  - {type: variant, offset: 6604, length: 1, content: 同, 甲: '', 乙: ''}
+  - {type: variant, offset: 6640, length: 2, content: 沃潤, 甲: 潤沃, 乙: 潤沃}
+  - {type: variant, offset: 6643, length: 1, content: 稼, 乙: 稼叢林}
+  - {type: variant, offset: 6645, length: 1, content: 榮, 甲: 榮滋茂, 乙: 榮滋茂}
+  - {type: variant, offset: 6664, length: 1, content: 色, 甲: 身色, 乙: 身色}
+  - {type: variant, offset: 6710, length: 1, content: 唯, 甲: 准, 乙: 准}
+  - {type: variant, offset: 6759, length: 1, content: 唯, 甲: 准, 乙: 准}
+  - {type: variant, offset: 6787, length: 2, content: 一切, 甲: '', 乙: ''}
+  - {type: variant, offset: 6796, length: 1, content: 恐, 甲: 亦, 乙: 亦}
+  - {type: variant, offset: 6828, length: 1, content: 檄, 乙: 覈}
+  - {type: variant, offset: 6896, length: 1, content: 裁, 甲: 截, 乙: 截}
+  - {type: variant, offset: 6916, length: 1, content: 飽, 乙: 飲}
+  - {type: variant, offset: 6937, length: 1, content: 耳, 甲: 了, 乙: 了}
+  - {type: variant, offset: 6969, length: 1, content: 幡, 乙: 旛}
+  - {type: variant, offset: 6988, length: 1, content: 咸, 甲: 或, 乙: 或}
+  - {type: variant, offset: 6989, length: 1, content: 誦, 甲: 謂, 乙: 謂}
+  - {type: variant, offset: 7003, length: 1, content: 曰《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第20圖右欄第5行）T41n1821_p0011b06, 大: 白, 甲: 曰, 乙: 曰}
+  - {type: variant, offset: 7024, length: 1, content: 無, 乙: 然無}
+  - {type: variant, offset: 7029, length: 1, content: 是, 甲: 此, 乙: 此}
+  - {type: variant, offset: 7036, length: 1, content: 云, 乙: 主言}
+  - {type: variant, offset: 7040, length: 2, content: 菩薩, 甲: 并, 乙: 并}
+  - {type: variant, offset: 7042, length: 1, content: 報, 甲: 根, 乙: 根}
+  - {type: variant, offset: 7050, length: 1, content: 報, 甲: 根, 乙: 根}
+  - {type: variant, offset: 7058, length: 1, content: 報, 甲: 根, 乙: 根}
+  - {type: variant, offset: 7074, length: 2, content: 所造, 甲: '', 乙: ''}
+  - {type: variant, offset: 7147, length: 1, content: 依, 甲: '', 乙: ''}
+  - {type: variant, offset: 7165, length: 1, content: 性, 乙: 種性}
+  - {type: variant, offset: 7185, length: 2, content: 前經, 甲: '', 乙: ''}
+  - {type: variant, offset: 7199, length: 1, content: 船, 甲: 弘, 乙: 弘}
+  - {type: variant, offset: 7202, length: 1, content: 經, 甲: 雖, 乙: 雖}
+  - {type: variant, offset: 7210, length: 1, content: 船, 甲: 弘, 乙: 弘}
+  - {type: variant, offset: 7213, length: 1, content: 經, 甲: 雖, 乙: 雖}
+  - {type: variant, offset: 7222, length: 1, content: 船, 甲: 弘, 乙: 弘}
+  - {type: variant, offset: 7260, length: 1, content: 外, 甲: 別, 乙: 別}
+  - {type: variant, offset: 7332, length: 1, content: 寄, 甲: 遇寄, 乙: 遇寄}
+  - {type: variant, offset: 7333, length: 1, content: 盡, 甲: 書, 乙: 書}
+  - {type: variant, offset: 7352, length: 1, content: 便, 乙: 使}
+  - {type: variant, offset: 7488, length: 1, content: 入, 乙: 食入}
+  - {type: variant, offset: 7502, length: 1, content: 道, 甲: 聲, 乙: 聲}
+  - {type: variant, offset: 7504, length: 1, content: 聲《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第21圖右欄第8行左行夾注）T27n1545_p0511c02, 大: 道}
+  - {type: variant, offset: 7607, length: 1, content: 是, 甲: '', 乙: ''}
+  - {type: variant, offset: 7699, length: 1, content: 此, 甲: 者, 乙: 者}
+  - {type: variant, offset: 7719, length: 1, content: 流, 甲: '', 乙: ''}
+  - {type: variant, offset: 7720, length: 1, content: 故, 甲: 故故, 乙: 故故}
+  - {type: variant, offset: 7726, length: 1, content: 部, 甲: 部也, 乙: 部也}
+  - {type: variant, offset: 7728, length: 1, content: 從, 甲: '', 乙: ''}
+  - {type: variant, offset: 7754, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 7822, length: 1, content: 等, 甲: '', 乙: ''}
+  - {type: variant, offset: 8043, length: 1, content: 正, 甲: 正性, 乙: 正性}
+  - {type: variant, offset: 8107, length: 1, content: 理, 甲: 理論, 乙: 理論}
+  - {type: variant, offset: 8143, length: 1, content: 與, 甲: '', 乙: ''}
+  - {type: variant, offset: 8214, length: 1, content: 此, 甲: 此亦, 乙: 此亦}
+  - {type: variant, offset: 8228, length: 1, content: 有, 甲: 成, 乙: 成}
+  - {type: variant, offset: 8246, length: 1, content: 世, 甲: 在, 乙: 在}
+  - {type: variant, offset: 8263, length: 1, content: 然, 甲: 能, 乙: 能}
+  - {type: variant, offset: 8270, length: 1, content: 行, 甲: 斷, 乙: 斷}
+  - {type: variant, offset: 8312, length: 1, content: 道, 甲: 聖道, 乙: 聖道}
+  - {type: variant, offset: 8334, length: 1, content: 定, 甲: 言, 乙: 言}
+  - {type: variant, offset: 8361, length: 1, content: 已, 甲: 異, 乙: 異}
+  - {type: variant, offset: 8380, length: 2, content: 本宗, 甲: '', 乙: ''}
+  - {type: variant, offset: 8416, length: 1, content: 理, 甲: 正理, 乙: 正理}
+  - {type: variant, offset: 8417, length: 1, content: 期, 乙: 斯}
+  - {type: variant, offset: 8467, length: 1, content: 假, 甲: 依, 乙: 依}
+  - {type: variant, offset: 8473, length: 1, content: 部, 甲: 論之, 乙: 論之}
+  - {type: variant, offset: 8535, length: 1, content: 以, 甲: 故, 乙: 故}
+  - {type: variant, offset: 8576, length: 1, content: 定, 乙: 定故}
+  - {type: variant, offset: 8578, length: 1, content: 佛, 甲: '', 乙: ''}
+  - {type: variant, offset: 8580, length: 1, content: 若, 甲: '', 乙: ''}
+  - {type: variant, offset: 8625, length: 2, content: 無此, 甲: 此無, 乙: 此無}
+  - {type: variant, offset: 8668, length: 1, content: 意, 甲: 言, 乙: 言}
+  - {type: variant, offset: 8697, length: 2, content: 說部, 乙: 部說}
+  - {type: variant, offset: 8724, length: 1, content: 相, 甲: 根, 乙: 根}
+  - {type: variant, offset: 8732, length: 1, content: 大, 甲: 大種, 乙: 大種}
+  - {type: variant, offset: 8735, length: 1, content: 行, 甲: '', 乙: ''}
+  - {type: variant, offset: 8754, length: 7, content: 以無情為異類也, 乙: 以無情為異類也}
+  - {type: variant, offset: 8775, length: 2, content: 說部, 乙: 部說}
+  - {type: variant, offset: 8781, length: 1, content: 意, 甲: 立, 乙: 立}
+  - {type: variant, offset: 8783, length: 1, content: 界, 甲: 界義, 乙: 界義}
+  - {type: variant, offset: 8833, length: 1, content: 本, 甲: '', 乙: ''}
+  - {type: variant, offset: 8853, length: 1, content: 苦, 乙: 若業}
+  - {type: variant, offset: 8855, length: 2, content: 說部, 乙: 部說}
+  - {type: variant, offset: 8877, length: 1, content: 品, 甲: 只, 乙: 只}
+  - {type: variant, offset: 8901, length: 1, content: 了, 甲: '', 乙: ''}
+  - {type: variant, offset: 8925, length: 3, content: 而不知, 甲: '', 乙: ''}
+  - {type: variant, offset: 8958, length: 1, content: 云, 乙: 種}
+  - {type: variant, offset: 8995, length: 1, content: 於, 甲: 通於, 乙: 通於}
+  - {type: variant, offset: 9000, length: 1, content: 名, 甲: '', 乙: ''}
+  - {type: variant, offset: 9006, length: 1, content: 能, 甲: 然, 乙: 然}
+  - {type: variant, offset: 9016, length: 1, content: 所, 甲: 所依所, 乙: 所依所}
+  - {type: variant, offset: 9025, length: 2, content: 之一, 原: ''}
+  - {type: variant, offset: 9047, length: 1, content: 三《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第24圖左欄第7行）, 大: 二, 甲: 三, 乙: 三}
+  - {type: variant, offset: 9060, length: 1, content: 問, 甲: '', 乙: ''}
+  - {type: variant, offset: 9161, length: 1, content: 有, 甲: '', 乙: ''}
+  - {type: variant, offset: 9278, length: 1, content: 無, 甲: 非, 乙: 非}
+  - {type: variant, offset: 9309, length: 1, content: 性, 甲: 性法, 乙: 性法}
+  - {type: variant, offset: 9313, length: 1, content: 名, 甲: 故名, 乙: 故名}
+  - {type: variant, offset: 9364, length: 1, content: 惑《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第25圖左欄第3行）, 大: 或, 甲: 惑, 乙: 惑}
+  - {type: variant, offset: 9392, length: 1, content: 用, 甲: 用也, 乙: 用也}
+  - {type: variant, offset: 9396, length: 1, content: 惑《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第25圖左欄第4行）, 大: 或, 甲: 惑, 乙: 惑}
+  - {type: variant, offset: 9408, length: 1, content: 先, 甲: 果先, 乙: 果先}
+  - {type: variant, offset: 9508, length: 1, content: 等, 甲: ''}
+  - {type: variant, offset: 9616, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 9618, length: 1, content: 是, 甲: 動, 乙: 動}
+  - {type: variant, offset: 9649, length: 1, content: 輕, 甲: 於輕, 乙: 於輕}
+  - {type: variant, offset: 9660, length: 1, content: 有, 甲: 其, 乙: 其}
+  - {type: variant, offset: 9672, length: 1, content: 序, 甲: '', 乙: ''}
+  - {type: variant, offset: 9684, length: 1, content: 其, 甲: 於其, 乙: 於其}
+  - {type: variant, offset: 9708, length: 1, content: 序, 甲: '', 乙: ''}
+  - {type: variant, offset: 9794, length: 1, content: 如《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第26圖左欄第3行）, 大: 知, 甲: 如, 乙: 如}
+  - {type: variant, offset: 9826, length: 1, content: 舉, 乙: 奉}
+  - {type: variant, offset: 10010, length: 1, content: 其, 甲: 有其, 乙: 有其}
+  - {type: variant, offset: 10014, length: 1, content: 假, 乙: 立假}
+  - {type: variant, offset: 10028, length: 1, content: 禮, 甲: '', 乙: ''}
+  - {type: variant, offset: 10112, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 10120, length: 1, content: 禮, 甲: '', 乙: ''}
+  - {type: variant, offset: 10187, length: 1, content: 貪, 甲: 貧, 乙: 貧}
+  - {type: variant, offset: 10215, length: 1, content: 敬, 甲: 禮, 乙: 禮}
+  - {type: variant, offset: 10218, length: 2, content: 文初, 甲: 初文, 乙: 初文}
+  - {type: variant, offset: 10272, length: 1, content: 無, 乙: 不}
+  - {type: variant, offset: 10277, length: 1, content: 無, 甲: '', 乙: ''}
+  - {type: variant, offset: 10338, length: 1, content: 彼, 甲: 誹, 乙: 誹}
+  - {type: variant, offset: 10380, length: 1, content: 欲, 甲: 諸欲, 乙: 諸欲}
+  - {type: variant, offset: 10454, length: 1, content: 攝, 甲: 非攝, 乙: 非攝}
+  - {type: variant, offset: 10455, length: 1, content: 化, 甲: 他, 乙: 他}
+  - {type: variant, offset: 10475, length: 1, content: 歸, 甲: 攝, 乙: 攝}
+  - {type: variant, offset: 10522, length: 1, content: 唯, 乙: 准}
+  - {type: variant, offset: 10549, length: 1, content: 言, 大: ''}
+  - {type: variant, offset: 10566, length: 1, content: 且, 甲: 亦, 乙: 亦}
+  - {type: variant, offset: 10622, length: 1, content: 故, 甲: 云, 乙: 云}
+  - {type: variant, offset: 10655, length: 1, content: 文, 甲: '', 乙: ''}
+  - {type: variant, offset: 10656, length: 1, content: 壞, 甲: 礙, 乙: 礙}
+  - {type: variant, offset: 10744, length: 1, content: 品, 甲: '', 乙: ''}
+  - {type: variant, offset: 10746, length: 1, content: 別, 甲: 別境, 乙: 別境}
+  - {type: variant, offset: 10749, length: 1, content: 云, 甲: 言, 乙: 言}
+  - {type: variant, offset: 10755, length: 1, content: 文, 甲: '', 乙: ''}
+  - {type: variant, offset: 10769, length: 1, content: 有, 甲: 能, 乙: 能}
+  - {type: variant, offset: 10793, length: 1, content: 法, 甲: '', 乙: ''}
+  - {type: variant, offset: 10820, length: 1, content: 直, 甲: 立, 乙: 立}
+  - {type: variant, offset: 10854, length: 1, content: 其, 乙: 于}
+  - {type: variant, offset: 10873, length: 1, content: 恐, 甲: 即, 乙: 即}
+  - {type: variant, offset: 10946, length: 1, content: 以, 甲: '', 乙: ''}
+  - {type: variant, offset: 10969, length: 1, content: 次, 甲: '', 乙: ''}
+  - {type: variant, offset: 10970, length: 1, content: 則, 甲: 即, 乙: 即}
+  - {type: variant, offset: 11002, length: 1, content: 者, 甲: 也, 乙: 也}
+  - {type: variant, offset: 11020, length: 1, content: 定, 甲: 實, 乙: 實}
+  - {type: variant, offset: 11023, length: 1, content: 遂, 乙: 逐}
+  - {type: variant, offset: 11083, length: 1, content: 釋, 甲: '', 乙: ''}
+  - {type: variant, offset: 11100, length: 1, content: 杌, 乙: 杌等}
+  - {type: variant, offset: 11105, length: 1, content: 實, 甲: 真, 乙: 真}
+  - {type: variant, offset: 11136, length: 1, content: 隨, 甲: 從, 乙: 從}
+  - {type: variant, offset: 11139, length: 1, content: 此, 甲: 此故, 乙: 此故}
+  - {type: variant, offset: 11194, length: 1, content: 縱, 乙: 縱破}
+  - {type: variant, offset: 11202, length: 1, content: 沙, 乙: 沙師}
+  - {type: variant, offset: 11227, length: 1, content: 又, 甲: 又復, 乙: 又復}
+  - {type: variant, offset: 11346, length: 1, content: 內, 甲: 內心, 乙: 內心}
+  - {type: variant, offset: 11369, length: 1, content: 障, 甲: 境, 乙: 境}
+  - {type: variant, offset: 11372, length: 1, content: 豈, 乙: 是}
+  - {type: variant, offset: 11376, length: 2, content: 縱令, 乙: 非全}
+  - {type: variant, offset: 11404, length: 1, content: 有, 甲: '', 乙: ''}
+  - {type: variant, offset: 11409, length: 1, content: 釋, 乙: 見}
+  - {type: variant, offset: 11418, length: 1, content: 唯, 乙: 惟}
+  - {type: variant, offset: 11546, length: 1, content: 知《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第30圖左欄第6行）T29n1558_p0001a19, 大: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 11643, length: 1, content: 牛, 乙: 水牛}
+  - {type: variant, offset: 11677, length: 1, content: 由, 甲: 猶, 乙: 猶}
+  - {type: variant, offset: 11687, length: 1, content: 其, 甲: 有其, 乙: 有其}
+  - {type: variant, offset: 11709, length: 1, content: 隨, 甲: 說, 乙: 說}
+  - {type: variant, offset: 11714, length: 2, content: 名想, 甲: 想名, 乙: 想名}
+  - {type: variant, offset: 11721, length: 1, content: 解, 甲: 解脫, 乙: 解脫}
+  - {type: variant, offset: 11739, length: 1, content: 牛, 乙: 水牛}
+  - {type: variant, offset: 11779, length: 1, content: 千, 甲: 千界, 乙: 千界}
+  - {type: variant, offset: 11800, length: 1, content: 者, 甲: 故, 乙: 故}
+  - {type: variant, offset: 11823, length: 1, content: 二, 乙: 三}
+  - {type: variant, offset: 11827, length: 1, content: 正, 甲: 准正, 乙: 准正}
+  - {type: variant, offset: 11853, length: 1, content: 云, 甲: '', 乙: ''}
+  - {type: variant, offset: 11856, length: 1, content: 德, 甲: 滿, 乙: 滿}
+  - {type: variant, offset: 11856, length: 1, content: 為, 甲: 得為, 乙: 得為}
+  - {type: variant, offset: 11896, length: 1, content: 准, 甲: 唯, 乙: 唯}
+  - {type: variant, offset: 12014, length: 1, content: 名, 乙: ''}
+  - {type: variant, offset: 12073, length: 1, content: 共, 乙: 共生}
+  - {type: variant, offset: 12125, length: 1, content: 名, 乙: 不}
+  - {type: variant, offset: 12267, length: 1, content: 疎, 甲: 疎依, 乙: 疎依}
+  - {type: variant, offset: 12279, length: 1, content: 言, 甲: 之言, 乙: 之言}
+  - {type: variant, offset: 12385, length: 1, content: 留, 乙: 由}
+  - {type: variant, offset: 12469, length: 1, content: 差, 甲: 斷差, 乙: 斷差}
+  - {type: variant, offset: 12501, length: 1, content: 髻, 大: 鬘}
+  - {type: variant, offset: 12548, length: 1, content: 事, 甲: '', 乙: ''}
+  - {type: variant, offset: 12768, length: 1, content: 後, 甲: 復, 乙: 復}
+  - {type: variant, offset: 12836, length: 1, content: 應, 甲: 於, 乙: 於}
+  - {type: variant, offset: 12854, length: 1, content: 生, 甲: '', 乙: ''}
+  - {type: variant, offset: 12855, length: 1, content: 後, 甲: 後念, 乙: 後念}
+  - {type: variant, offset: 12856, length: 2, content: 同類, 甲: 劣, 乙: 劣}
+  - {type: variant, offset: 12894, length: 1, content: 即, 甲: 知, 乙: 知}
+  - {type: variant, offset: 13118, length: 1, content: 領, 甲: 領納, 乙: 領納}
+  - {type: variant, offset: 13186, length: 1, content: 無, 甲: 不, 乙: 不}
+  - {type: variant, offset: 13187, length: 2, content: 亦如, 乙: 如是}
+  - {type: variant, offset: 13216, length: 1, content: 文, 甲: 證文, 乙: 證文}
+  - {type: variant, offset: 13269, length: 1, content: 言, 甲: 云, 乙: 云}
+  - {type: variant, offset: 13273, length: 1, content: 師, 甲: '', 乙: ''}
+  - {type: variant, offset: 13326, length: 1, content: 勢, 甲: '', 乙: ''}
+  - {type: variant, offset: 13348, length: 1, content: 正, 甲: 有部正, 乙: 有部正}
+  - {type: variant, offset: 13432, length: 1, content: 識, 乙: ''}
+  - {type: variant, offset: 13458, length: 1, content: 蘊, 甲: 蘊謂能, 乙: 蘊謂能}
+  - {type: variant, offset: 13459, length: 1, content: 准, 甲: 唯, 乙: 唯}
+  - {type: variant, offset: 13462, length: 1, content: 准, 甲: 唯, 乙: 唯}
+  - {type: variant, offset: 13468, length: 1, content: 通, 甲: '', 乙: ''}
+  - {type: variant, offset: 13515, length: 1, content: 耶, 甲: 邪, 乙: 邪}
+  - {type: variant, offset: 13616, length: 1, content: 意, 原: 詞, 甲: 詞, 乙: 詞}
+  - {type: variant, offset: 13667, length: 2, content: 不染, 甲: '', 乙: ''}
+  - {type: variant, offset: 13717, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 13740, length: 1, content: 理, 甲: 理論, 乙: 理論}
+  - {type: variant, offset: 13779, length: 1, content: 反《俱舍論疏》（日本國立公文書館藏明治二十年刊本第2冊第35圖右欄第9行）T41n1822_p0486b06, 大: 及}
+  - {type: variant, offset: 13793, length: 1, content: 蘊, 甲: 蘊行, 乙: 蘊行}
+  - {type: variant, offset: 13803, length: 0, content: 《俱舍論疏》（日本國立公文書館藏明治二十年刊本第2冊第35圖右欄第10行）, 大: 思, 甲: '', 乙: ''}
+  - {type: variant, offset: 13825, length: 1, content: 理, 甲: 理論, 乙: 理論}
+  - {type: variant, offset: 13957, length: 2, content: 性通, 甲: '', 乙: ''}
+  - {type: variant, offset: 14030, length: 1, content: 所, 甲: 所法, 乙: 所法}
+  - {type: variant, offset: 14051, length: 1, content: 非, 大: ''}
+  - {type: variant, offset: 14059, length: 1, content: 想, 甲: 相, 乙: 相}
+  - {type: variant, offset: 14060, length: 1, content: 云, 甲: '', 乙: ''}
+  - {type: variant, offset: 14124, length: 1, content: 依, 甲: '', 乙: ''}
+  - {type: variant, offset: 14146, length: 6, content: 簡觸、受所取也, 甲: 簡觸受所取也, 乙: 簡觸受所取也}
+  - {type: variant, offset: 14181, length: 2, content: 總取, 甲: 取總, 乙: 取總}
+  - {type: variant, offset: 14277, length: 1, content: 評《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第37圖右欄第6行）, 大: 詳, 甲: 評, 乙: 評}
+  - {type: variant, offset: 14329, length: 1, content: 障《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第37圖右欄第8行）, 大: 彰, 甲: 障, 乙: 障}
+  - {type: variant, offset: 14332, length: 1, content: 解, 甲: 釋, 乙: 釋}
+  - {type: variant, offset: 14370, length: 1, content: 復, 甲: 後, 乙: 後}
+  - {type: variant, offset: 14479, length: 1, content: 心, 甲: 心心, 乙: 心心}
+  - {type: variant, offset: 14493, length: 1, content: 義, 甲: 家, 乙: 家}
+  - {type: variant, offset: 14524, length: 1, content: 三, 甲: 三種, 乙: 三種}
+  - {type: variant, offset: 14545, length: 1, content: 取, 甲: 能取, 乙: 能取}
+  - {type: variant, offset: 14551, length: 1, content: 義, 甲: 家, 乙: 家}
+  - {type: variant, offset: 14554, length: 1, content: 王, 甲: 心王, 乙: 心王}
+  - {type: variant, offset: 14570, length: 1, content: 王, 甲: 心王, 乙: 心王}
+  - {type: variant, offset: 14571, length: 1, content: 曰, 甲: 云, 乙: 云}
+  - {type: variant, offset: 14614, length: 1, content: 別, 甲: 取別, 乙: 取別}
+  - {type: variant, offset: 14629, length: 1, content: 心, 甲: 心心, 乙: 心心}
+  - {type: variant, offset: 14705, length: 1, content: 縛T41n1821_p0006a15, 大: 縳}
+  - {type: variant, offset: 14736, length: 1, content: 染, 甲: 染污, 乙: 染污}
+  - {type: variant, offset: 14772, length: 1, content: 取, 甲: 觀, 乙: 觀}
+  - {type: variant, offset: 14820, length: 1, content: 少, 甲: 小, 乙: 小}
+  - {type: variant, offset: 14828, length: 1, content: 不, 甲: 不正, 乙: 不正}
+  - {type: variant, offset: 14888, length: 1, content: 縛X52n0835_p0539a13, 大: 縳}
+  - {type: variant, offset: 14896, length: 1, content: 縛X52n0835_p0539a14, 大: 縳}
+  - {type: variant, offset: 14918, length: 1, content: 縛T41n1822_p0461c21, 大: 縳}
+  - {type: variant, offset: 14975, length: 2, content: 却退, 甲: 退起, 乙: 退起}
+  - {type: variant, offset: 14983, length: 1, content: 者, 甲: '', 乙: ''}
+  - {type: variant, offset: 14984, length: 1, content: 顯, 甲: 但, 乙: 但}
+  - {type: variant, offset: 14989, length: 1, content: 謂, 甲: '', 乙: ''}
+  - {type: variant, offset: 15003, length: 1, content: 不, 甲: '', 乙: ''}
+  - {type: variant, offset: 15037, length: 1, content: 聞, 甲: 雖聞, 乙: 雖聞}
+  - {type: variant, offset: 15039, length: 1, content: 聖, 甲: '', 乙: ''}
+  - {type: variant, offset: 15041, length: 1, content: 縛X53n0841_p0388a14, 大: 縳}
+  - {type: variant, offset: 15057, length: 1, content: 縛X52n0835_p0539a22, 大: 縳}
+  - {type: variant, offset: 15102, length: 2, content: 如是, 甲: '', 乙: ''}
+  - {type: variant, offset: 15115, length: 1, content: 以, 甲: '', 乙: ''}
+  - {type: variant, offset: 15158, length: 1, content: 永, 甲: 永斷, 乙: 永斷}
+  - {type: variant, offset: 15166, length: 1, content: 盡, 甲: 名, 乙: 名}
+  - {type: variant, offset: 15167, length: 1, content: 必, 甲: 要, 乙: 要}
+  - {type: variant, offset: 15192, length: 3, content: 臺六司, 甲: 一六臣, 乙: 一六臣}
+  - {type: variant, offset: 15196, length: 1, content: 勝, 甲: 闕勝, 乙: 闕勝}
+  - {type: variant, offset: 15198, length: 1, content: 闕, 甲: '', 乙: ''}
+  - {type: variant, offset: 15230, length: 2, content: 分六, 甲: 分別為六, 乙: 分別為六}
+  - {type: variant, offset: 15255, length: 1, content: 九, 甲: 九品, 乙: 九品}
+  - {type: variant, offset: 15265, length: 1, content: 四, 大: 二}
+  - {type: variant, offset: 15310, length: 1, content: 身, 大: 自}
+  - {type: variant, offset: 15316, length: 1, content: 段, 乙: 徵}
+  - {type: variant, offset: 15351, length: 1, content: 身, 原: ''}
+  - {type: variant, offset: 15443, length: 1, content: 述, 甲: '', 乙: ''}
+  - {type: variant, offset: 15464, length: 1, content: 言, 甲: '', 乙: ''}
+  - {type: variant, offset: 15617, length: 1, content: 二, 乙: 三}
+  - {type: variant, offset: 15658, length: 1, content: 喻, 甲: 譬, 乙: 譬}
+  - {type: variant, offset: 15715, length: 1, content: 小, 原: 劣}
+  - {type: variant, offset: 15717, length: 1, content: 唯, 甲: 明, 乙: 明}
+  - {type: variant, offset: 15867, length: 1, content: 是, 甲: 是下, 乙: 是下}
+  - {type: variant, offset: 15897, length: 1, content: 之, 甲: 之言, 乙: 之言}
+  - {type: variant, offset: 15901, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 15902, length: 1, content: 之, 乙: ''}
+  - {type: variant, offset: 15903, length: 1, content: 首, 乙: 首之尊}
+  - {type: variant, offset: 15911, length: 1, content: 敬, 甲: 極, 乙: 極}
+  - {type: variant, offset: 15934, length: 1, content: 敬, 甲: 敬禮, 乙: 敬禮}
+  - {type: variant, offset: 15975, length: 1, content: 二, 乙: 四}
+  - {type: variant, offset: 15980, length: 1, content: 鵄, 乙: 鵛}
+  - {type: variant, offset: 16069, length: 2, content: 駝、猫, 甲: 駝猫鵄, 乙: 猫鵛}
+  - {type: variant, offset: 16077, length: 1, content: 有, 甲: 所, 乙: 所}
+  - {type: variant, offset: 16122, length: 1, content: 等, 乙: 所}
+  - {type: variant, offset: 16128, length: 1, content: 失, 甲: 法, 乙: 法}
+  - {type: variant, offset: 16163, length: 1, content: 類, 乙: 種類}
+  - {type: variant, offset: 16203, length: 2, content: 他德《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第41圖左欄第7行）T29n1558_p0001a26T41n1821_p0003a10, 大: 他, 甲: 他德, 乙: 他德}
+  - {type: variant, offset: 16253, length: 8, content: 簡凡、小也。不由威力, 甲: '', 乙: ''}
+  - {type: variant, offset: 16280, length: 2, content: 祈天《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第41圖左欄第10行）, 大: 天, 甲: 祈天, 乙: 祈天}
+  - {type: variant, offset: 16282, length: 1, content: 少, 乙: 小}
+  - {type: variant, offset: 16283, length: 1, content: 但, 甲: 但與, 乙: 但與}
+  - {type: variant, offset: 16285, length: 1, content: 深, 甲: 其, 乙: 其}
+  - {type: variant, offset: 16286, length: 1, content: 願, 甲: 願力, 乙: 願力}
+  - {type: variant, offset: 16413, length: 1, content: 擇, 甲: 擇滅, 乙: 擇滅}
+  - {type: variant, offset: 16430, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 16477, length: 1, content: 四, 大: 三}
+  - {type: variant, offset: 16491, length: 1, content: 得, 甲: '', 乙: ''}
+  - {type: variant, offset: 16494, length: 1, content: 四, 大: ''}
+  - {type: variant, offset: 16527, length: 2, content: 文初, 甲: 初文, 乙: 初文}
+  - {type: variant, offset: 16587, length: 1, content: 世, 乙: 世時}
+  - {type: variant, offset: 16606, length: 1, content: 意, 乙: 二色}
+  - {type: variant, offset: 16668, length: 6, content: 出惠體也。惠能, 甲: 惠體, 乙: 惠體}
+  - {type: variant, offset: 16846, length: 1, content: 難, 乙: 難不然}
+  - {type: variant, offset: 16901, length: 3, content: 遠近釋, 甲: 釋遠近, 乙: 釋遠近}
+  - {type: variant, offset: 16959, length: 1, content: 道, 甲: '', 乙: ''}
+  - {type: variant, offset: 17031, length: 1, content: 多, 甲: 多分, 乙: 多分}
+  - {type: variant, offset: 17056, length: 1, content: 行, 甲: 隨行, 乙: 隨行}
+  - {type: variant, offset: 17062, length: 1, content: 隨, 甲: 隨轉, 乙: 隨轉}
+  - {type: variant, offset: 17091, length: 1, content: 滅, 甲: 謝滅, 乙: 謝滅}
+  - {type: variant, offset: 17143, length: 1, content: 同, 乙: 不同}
+  - {type: variant, offset: 17145, length: 1, content: 王, 甲: '', 乙: ''}
+  - {type: variant, offset: 17160, length: 1, content: 第, 甲: 於, 乙: 於}
+  - {type: variant, offset: 17170, length: 1, content: 王, 甲: 心王, 乙: 心王}
+  - {type: variant, offset: 17202, length: 1, content: 釋, 甲: 擇, 乙: 擇}
+  - {type: variant, offset: 17204, length: 3, content: 為所隨, 乙: 所為隨}
+  - {type: variant, offset: 17262, length: 1, content: 何, 甲: 得, 乙: 得}
+  - {type: variant, offset: 17325, length: 2, content: 種類, 乙: 類種}
+  - {type: variant, offset: 17406, length: 1, content: 行, 甲: 轉, 乙: 轉}
+  - {type: variant, offset: 17410, length: 1, content: 轉, 甲: 行, 乙: 行}
+  - {type: variant, offset: 17422, length: 2, content: 不定, 甲: '', 乙: ''}
+  - {type: variant, offset: 17433, length: 1, content: 同《俱舍論疏》（日本國立公文書館藏明治二十年刊本第2冊第44圖右欄第2行）T29n1562_p0343c18, 大: ''}
+  - {type: variant, offset: 17458, length: 2, content: 望於, 甲: '', 乙: ''}
+  - {type: variant, offset: 17555, length: 1, content: 一, 乙: 一界}
+  - {type: variant, offset: 17561, length: 1, content: 緣, 乙: 緣生}
+  - {type: variant, offset: 17654, length: 1, content: 又, 甲: 有, 乙: 有}
+  - {type: variant, offset: 17918, length: 1, content: 糧, 甲: 糧故, 乙: 糧故}
+  - {type: variant, offset: 17931, length: 25, content: 刀杖等為殺業資糧，異熟受境為異熟資糧，女人等境為漏資糧, 甲: '', 乙: ''}
+  - {type: variant, offset: 17957, length: 1, content: 蘊, 乙: 蘊義}
+  - {type: variant, offset: 17971, length: 1, content: 之, 甲: '', 乙: ''}
+  - {type: variant, offset: 17974, length: 1, content: 者, 甲: '', 乙: ''}
+  - {type: variant, offset: 17991, length: 1, content: 智, 甲: 慧, 乙: 慧}
+  - {type: variant, offset: 18005, length: 1, content: 應, 甲: 舊, 乙: 舊}
+  - {type: variant, offset: 18185, length: 1, content: 第, 乙: 初}
+  - {type: variant, offset: 18195, length: 1, content: 說, 甲: '', 乙: ''}
+  - {type: variant, offset: 18212, length: 1, content: 定, 甲: '', 乙: ''}
+  - {type: variant, offset: 18240, length: 1, content: 四, 甲: 三, 乙: 三}
+  - {type: variant, offset: 18317, length: 2, content: 思、聞, 甲: 聞思, 乙: 聞思}
+  - {type: variant, offset: 18318, length: 1, content: 反, 乙: 返}
+  - {type: variant, offset: 18344, length: 1, content: 反, 乙: 返}
+  - {type: variant, offset: 18364, length: 1, content: 論, 甲: 云, 乙: 云}
+  - {type: variant, offset: 18570, length: 1, content: 云, 甲: 言, 乙: 言}
+  - {type: variant, offset: 18586, length: 1, content: 是, 乙: 此}
+  - {type: variant, offset: 18592, length: 1, content: 伐, 乙: 筏}
+  - {type: variant, offset: 18631, length: 1, content: 伐, 乙: 筏}
+  - {type: variant, offset: 18640, length: 1, content: 多, 乙: 少}
+  - {type: variant, offset: 18698, length: 1, content: 小, 乙: 少}
+  - {type: variant, offset: 18785, length: 1, content: 過, 甲: 遇, 乙: 遇}
+  - {type: variant, offset: 18883, length: 1, content: 三《俱舍論疏》（日本國立公文書館藏明治二十年刊本第2冊第47圖左欄第1行）, 大: 二}
+  - {type: variant, offset: 18904, length: 1, content: 諍, 乙: 體}
+  - {type: variant, offset: 18977, length: 1, content: 及, 大: 或}
+  - {type: variant, offset: 18985, length: 1, content: 諦, 甲: 聖諦, 乙: 聖諦}
+  - {type: variant, offset: 18990, length: 1, content: 多, 甲: '', 乙: ''}
+  - {type: variant, offset: 19113, length: 6, content: 加行、勝進、解脫, 原: 餘三, 甲: 餘三, 乙: 餘三}
+  - {type: variant, offset: 19117, length: 1, content: 說, 乙: 說如瓶}
+  - {type: variant, offset: 19119, length: 1, content: 應, 乙: 蘊息應}
+  - {type: variant, offset: 19121, length: 14, content: 有是如實相知對亦是趣向至得對, 原: 俱句者, 甲: 俱句者, 乙: 俱句者}
+  - {type: variant, offset: 19222, length: 1, content: 二, 乙: 三}
+  - {type: variant, offset: 19341, length: 1, content: 生, 乙: ''}
+  - {type: variant, offset: 19366, length: 1, content: 釋, 乙: 轉}
+  - {type: variant, offset: 19370, length: 1, content: 言, 甲: 云, 乙: 云}
+  - {type: variant, offset: 19399, length: 1, content: 抄, 乙: 鈔}
+  - {type: variant, offset: 19429, length: 1, content: 有, 甲: '', 乙: ''}
+  - {type: variant, offset: 19461, length: 1, content: 唯, 乙: 准}
+  - {type: variant, offset: 19524, length: 1, content: 費, 甲: 遺, 乙: 遺}
+  - {type: variant, offset: 19536, length: 1, content: 滅, 甲: 滅息, 乙: 滅息}
+  - {type: variant, offset: 19582, length: 1, content: 界, 乙: 處界}
+  - {type: variant, offset: 19628, length: 1, content: 蘊, 乙: 蘊界}
+  - {type: variant, offset: 19822, length: 1, content: 五, 甲: 立, 乙: 立}
+  - {type: variant, offset: 19941, length: 1, content: 說, 甲: 意, 乙: 意}
+  - {type: variant, offset: 19959, length: 1, content: 數, 甲: '', 乙: ''}
+  - {type: variant, offset: 19980, length: 1, content: 中, 甲: '', 乙: ''}
+  - {type: variant, offset: 20053, length: 1, content: 翻, 甲: 番, 乙: 番}
+  - {type: variant, offset: 20104, length: 1, content: 齊, 甲: 高, 乙: 高}
+  - {type: variant, offset: 20117, length: 1, content: 言, 甲: 云, 乙: 云}
+  - {type: variant, offset: 20199, length: 1, content: 親, 甲: 觀, 乙: 觀}
+  - {type: variant, offset: 20277, length: 1, content: 擇, 甲: 擇滅, 乙: 擇滅}
+  - {type: variant, offset: 20464, length: 2, content: 各隨, 甲: 隨可, 乙: 隨可}
+  - {type: variant, offset: 20531, length: 1, content: 受, 甲: 更, 乙: 更}
+  - {type: variant, offset: 20560, length: 1, content: 頌, 甲: '', 乙: ''}
+  - {type: variant, offset: 20614, length: 1, content: 文, 甲: 名, 乙: 名}
+  - {type: variant, offset: 20742, length: 1, content: 一, 甲: 二, 乙: 二}
+  - {type: variant, offset: 20944, length: 33, content: 有人多不得此意，謂言刀藏即是多財，或說刀是所依、藏能依也。皆是誤耳，應細看文, 甲: '', 乙: ''}
+  - {type: variant, offset: 21079, length: 1, content: 云, 甲: 云云, 乙: 云云}
+  - {type: variant, offset: 21081, length: 1, content: 應, 甲: '', 乙: ''}
+  - {type: variant, offset: 21099, length: 1, content: 意, 甲: 論意, 乙: 論意}
+  - {type: variant, offset: 21122, length: 1, content: 攝, 甲: 釋, 乙: 釋}
+  - {type: variant, offset: 21155, length: 1, content: 說, 甲: 至說, 乙: 至說}
+  - {type: variant, offset: 21158, length: 1, content: 正, 甲: 為正, 乙: 為正}
+  - {type: variant, offset: 21256, length: 1, content: 佛, 甲: 名, 乙: 名}
+  - {type: variant, offset: 21271, length: 1, content: 中, 乙: 文}
+  - {type: variant, offset: 21278, length: 1, content: 擇, 甲: 擇法, 乙: 擇法}
+  - {type: variant, offset: 21359, length: 1, content: 離, 甲: 雖, 乙: 雖}
+  - {type: variant, offset: 21385, length: 2, content: 傳說《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第53圖左欄第8行）T29n1558_p0001b27, 大: 傳, 甲: 傳說, 乙: 傳說}
+  - {type: variant, offset: 21389, length: 1, content: 釋, 甲: 此釋, 乙: 此釋}
+  - {type: variant, offset: 21468, length: 1, content: 此, 甲: '', 乙: ''}
+  - {type: variant, offset: 21471, length: 1, content: 是, 甲: '', 乙: ''}
+  - {type: variant, offset: 21479, length: 1, content: 皆, 甲: 皆是, 乙: 皆是}
+  - {type: variant, offset: 21482, length: 1, content: 故, 甲: '', 乙: ''}
+  - {type: variant, offset: 21492, length: 1, content: 說, 甲: '', 乙: ''}
+  - {type: variant, offset: 21600, length: 1, content: 四, 乙: 三}
+  - {type: variant, offset: 21674, length: 1, content: 世, 乙: 世界}
+  - {type: variant, offset: 21681, length: 1, content: 立, 甲: 世, 乙: 世}
+  - {type: variant, offset: 21733, length: 1, content: 分, 甲: '', 乙: ''}
+  - {type: variant, offset: 21783, length: 1, content: 佛《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第54圖左欄第7行）T41n1821_p0011a08, 大: 仙, 甲: 佛, 乙: 佛}
+  - {type: variant, offset: 21825, length: 1, content: 是, 乙: 實}
+  - {type: variant, offset: 21839, length: 1, content: 有, 甲: 位有, 乙: 位有}
+  - {type: variant, offset: 21854, length: 1, content: 是, 乙: 實}
+  - {type: variant, offset: 21877, length: 1, content: 嗢《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第55圖右欄第1行）, 大: 唱, 甲: 嗢, 乙: 嗢}
+  - {type: variant, offset: 21893, length: 1, content: 謂, 甲: '', 乙: ''}
+  - {type: variant, offset: 21952, length: 1, content: 然, 甲: 就, 乙: 就}
+  - {type: variant, offset: 21988, length: 1, content: 類, 乙: 數}
+  - {type: variant, offset: 21990, length: 1, content: 欲, 甲: 貪, 乙: 貪}
+  - {type: variant, offset: 21994, length: 1, content: 慢, 甲: '', 乙: ''}
+  - {type: variant, offset: 22154, length: 2, content: 一百《俱舍論疏》（日本國立公文書館藏明治二十年刊本第2冊第55圖右欄第7行）T41n1821_p0032a29, 大: 百, 甲: 一百, 乙: 一百}
+  - {type: variant, offset: 22302, length: 2, content: 文初, 甲: 初文, 乙: 初文}
+  - {type: variant, offset: 22318, length: 2, content: 別、通, 甲: 通別, 乙: 通別}
+  - {type: variant, offset: 22363, length: 2, content: 於彼, 乙: 彼於}
+  - {type: variant, offset: 22442, length: 1, content: 智, 甲: 智度, 乙: 智度}
+  - {type: variant, offset: 22451, length: 2, content: 土火, 乙: 炎}
+  - {type: variant, offset: 22454, length: 1, content: 縛, 乙: 縛蠋}
+  - {type: variant, offset: 22556, length: 1, content: 去, 甲: 如, 乙: 如}
+  - {type: variant, offset: 22567, length: 1, content: 令, 乙: 令水土等}
+  - {type: variant, offset: 22587, length: 1, content: 是, 大: 如是}
+  - {type: variant, offset: 22611, length: 1, content: 互, 甲: '', 乙: ''}
+  - {type: variant, offset: 22614, length: 1, content: 蘊, 甲: 藏, 乙: 藏}
+  - {type: variant, offset: 22638, length: 1, content: 耳, 甲: 了, 乙: 了}
+  - {type: variant, offset: 22644, length: 1, content: 眠, 乙: 耽}
+  - {type: variant, offset: 22658, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 22683, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 22708, length: 1, content: 猶, 乙: 境猶}
+  - {type: variant, offset: 22715, length: 1, content: 塵, 乙: 屎}
+  - {type: variant, offset: 22779, length: 1, content: 相, 甲: 於相, 乙: 於相}
+  - {type: variant, offset: 22801, length: 1, content: 更, 甲: 處, 乙: 處}
+  - {type: variant, offset: 22806, length: 1, content: 取, 甲: 彼取, 乙: 彼取}
+  - {type: variant, offset: 22858, length: 2, content: 醎塷, 甲: 鹹鹽, 乙: 鹹鹽}
+  - {type: variant, offset: 22940, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 22958, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 22985, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 22998, length: 1, content: 是, 甲: 即是, 乙: 即是}
+  - {type: variant, offset: 22999, length: 1, content: 堤, 甲: 從堤, 乙: 從堤}
+  - {type: variant, offset: 23018, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 23065, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 23084, length: 1, content: 則, 甲: 即, 乙: 即}
+  - {type: variant, offset: 23096, length: 1, content: 堤, 甲: '', 乙: ''}
+  - {type: variant, offset: 23113, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 23125, length: 1, content: 釋, 甲: 人, 乙: 人}
+  - {type: variant, offset: 23157, length: 1, content: 盡, 乙: 盡智}
+  - {type: variant, offset: 23159, length: 1, content: 瀆, 甲: 漬, 乙: 漬}
+  - {type: variant, offset: 23166, length: 1, content: 智, 甲: 知, 乙: 知}
+  - {type: variant, offset: 23189, length: 1, content: 將, 甲: 持, 乙: 持}
+  - {type: variant, offset: 23199, length: 1, content: 將, 甲: 持, 乙: 持}
+  - {type: variant, offset: 23264, length: 1, content: 此, 甲: 此下, 乙: 此下}
+  - {type: variant, offset: 23343, length: 1, content: 經, 乙: 經解}
+  - {type: variant, offset: 23346, length: 2, content: 擇滅《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第58圖左欄第1行）T29n1558_p0001c12, 大: 滅, 甲: 擇滅, 乙: 擇滅}
+  - {type: variant, offset: 23399, length: 2, content: 聖諦《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第58圖左欄第4行）T29n1558_p0001c12, 大: 聖, 甲: 聖諦, 乙: 聖諦}
+  - {type: variant, offset: 23402, length: 2, content: 無為《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第58圖左欄第4行）T29n1558_p0001c12, 大: 為, 甲: 無為, 乙: 無為}
+  - {type: variant, offset: 23435, length: 1, content: 判, 甲: 制, 乙: 制}
+  - {type: variant, offset: 23560, length: 1, content: 於, 甲: '', 乙: ''}
+  - {type: variant, offset: 23564, length: 1, content: 及, 甲: '', 乙: ''}
+  - {type: variant, offset: 23588, length: 1, content: 不, 甲: '', 乙: ''}
+  - {type: variant, offset: 23594, length: 2, content: 彼如, 甲: 如彼, 乙: 如彼}
+  - {type: variant, offset: 23608, length: 1, content: 三, 乙: 四}
+  - {type: variant, offset: 23615, length: 1, content: 聞, 乙: 同}
+  - {type: variant, offset: 23631, length: 1, content: 定, 甲: '', 乙: ''}
+  - {type: variant, offset: 23636, length: 1, content: 定, 甲: 言, 乙: 言}
+  - {type: variant, offset: 23682, length: 1, content: 答, 乙: 答也}
+  - {type: variant, offset: 23709, length: 1, content: 中, 甲: 就中, 乙: 就中}
+  - {type: variant, offset: 23756, length: 1, content: 六, 大: 三}
+  - {type: variant, offset: 23756, length: 1, content: 敬, 甲: 承, 乙: 承}
+  - {type: variant, offset: 23795, length: 1, content: 亦《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第59圖左欄第3行）, 大: 六, 甲: 亦, 乙: 亦}
+  - {type: variant, offset: 23796, length: 1, content: 加, 乙: ''}
+  - {type: variant, offset: 23891, length: 1, content: 同《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第59圖左欄第7行）, 大: 問, 甲: 同, 乙: 同}
+  - {type: variant, offset: 23911, length: 0, content: 《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第59圖左欄第8行）, 大: 問, 甲: '', 乙: ''}
+  - {type: variant, offset: 23975, length: 1, content: 顯《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第60圖右欄第1行）T29n1562_p0332b11, 大: 頓, 甲: 顯, 乙: 顯}
+  - {type: variant, offset: 24010, length: 1, content: 非, 甲: 不, 乙: 不}
+  - {type: variant, offset: 24100, length: 1, content: 能《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第60圖右欄第7行）T27n1545_p0389a02, 大: 然, 甲: 能, 乙: 能}
+  - {type: variant, offset: 24104, length: 1, content: 虛, 甲: '', 乙: ''}
+  - {type: variant, offset: 24207, length: 1, content: 性, 甲: 體性, 乙: 體性}
+  - {type: variant, offset: 24258, length: 1, content: 脫, 大: 說}
+  - {type: variant, offset: 24317, length: 1, content: 求, 甲: 度, 乙: 度}
+  - {type: variant, offset: 24413, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 24428, length: 1, content: 也, 乙: 耶}
+  - {type: variant, offset: 24438, length: 1, content: 造, 大: 述}
+  - {type: variant, offset: 24507, length: 1, content: 漏, 甲: 漏法, 乙: 漏法}
+  - {type: variant, offset: 24509, length: 1, content: 有, 乙: ''}
+  - {type: variant, offset: 24574, length: 1, content: 也, 甲: '', 乙: ''}
+  - {type: variant, offset: 24579, length: 1, content: 各, 甲: '', 乙: ''}
+  - {type: variant, offset: 24598, length: 1, content: 文, 甲: 頌文, 乙: 頌文}
+  - {type: variant, offset: 24644, length: 1, content: 爾, 甲: '', 乙: ''}
+  - {type: variant, offset: 24695, length: 0, content: 《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第61圖左欄第5行）T41n1822_p0470c07, 大: 滅, 甲: '', 乙: ''}
+  - {type: variant, offset: 24782, length: 1, content: 從, 甲: 說從, 乙: 說從}
+  - {type: variant, offset: 24911, length: 1, content: 二《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第62圖右欄第6行）T41n1822_p0471a09, 大: 一}
+  - {type: variant, offset: 24912, length: 1, content: 在, 甲: 在世, 乙: 在世}
+  - {type: variant, offset: 25020, length: 1, content: 界, 甲: '', 乙: ''}
+  - {type: variant, offset: 25052, length: 1, content: 所, 原: 何, 甲: 何, 乙: 何}
+  - {type: variant, offset: 25158, length: 1, content: 論, 甲: 論中, 乙: 論中}
+  - {type: variant, offset: 25203, length: 21, content: '保延三年潤九月六日於南新房奉點了。　　加久壽
+
+      交了', 甲: '', 乙: ''}
+  - {type: variant, offset: 25262, length: 2, content: 所緣, 甲: 緣縛, 乙: 緣縛}
+  - {type: variant, offset: 25404, length: 6, content: 已上釋自性斷, 甲: 已上釋自性斷, 乙: 已上釋自性斷}
+  - {type: variant, offset: 25416, length: 1, content: 有, 甲: 有法, 乙: 有法}
+  - {type: variant, offset: 25542, length: 1, content: 使《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第63圖左欄第6行）T41n1822_p0471b25, 大: 便, 甲: 使, 乙: 使}
+  - {type: variant, offset: 25551, length: 1, content: 使《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第63圖左欄第6行）T41n1822_p0471b25, 大: 便}
+  - {type: variant, offset: 25679, length: 1, content: 得, 甲: 已解脫得, 乙: 已解脫得}
+  - {type: variant, offset: 25715, length: 1, content: 二《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第64圖右欄第4行）T41n1822_p0471a09, 大: 一}
+  - {type: variant, offset: 25720, length: 1, content: 大, 甲: 後大, 乙: 後大}
+  - {type: variant, offset: 25772, length: 1, content: 八, 甲: 八品, 乙: 八品}
+  - {type: variant, offset: 25808, length: 1, content: 煩, 甲: 諸煩, 乙: 諸煩}
+  - {type: variant, offset: 25850, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 26121, length: 1, content: 滅, 甲: 擇滅, 乙: 擇滅}
+  - {type: variant, offset: 26123, length: 1, content: 復, 甲: 設, 乙: 設}
+  - {type: variant, offset: 26270, length: 1, content: 相, 甲: 惑相, 乙: 惑相}
+  - {type: variant, offset: 26313, length: 1, content: 縛, 原: 弱, 乙: 弱}
+  - {type: variant, offset: 26486, length: 1, content: 餘, 乙: 諸餘}
+  - {type: variant, offset: 26495, length: 1, content: 儀, 乙: 議}
+  - {type: variant, offset: 26587, length: 1, content: 進, 甲: 近, 乙: 近}
+  - {type: variant, offset: 26592, length: 1, content: 縛, 甲: 五縛, 乙: 五縛}
+  - {type: variant, offset: 26701, length: 1, content: 暄, 甲: 睻, 乙: 睻}
+  - {type: variant, offset: 26717, length: 1, content: 受, 甲: 更, 乙: 更}
+  - {type: variant, offset: 26756, length: 1, content: 劣, 甲: 弱, 乙: 弱}
+  - {type: variant, offset: 26802, length: 1, content: 強, 原: 勝}
+  - {type: variant, offset: 26832, length: 1, content: 故, 大: 何故}
+  - {type: variant, offset: 27166, length: 1, content: 染, 甲: 法, 乙: 法}
+  - {type: variant, offset: 27257, length: 1, content: 計, 甲: 許, 乙: 許}
+  - {type: variant, offset: 27390, length: 1, content: 論, 甲: 證, 乙: 證}
+  - {type: variant, offset: 27430, length: 4, content: 故知擇滅, 甲: '', 乙: ''}
+  - {type: variant, offset: 27435, length: 1, content: 定, 甲: 是, 乙: 是}
+  - {type: variant, offset: 27531, length: 1, content: 亦, 甲: 二, 乙: 二}
+  - {type: variant, offset: 27573, length: 1, content: 地, 乙: 二}
+  - {type: variant, offset: 27881, length: 1, content: 善, 甲: 擇, 乙: 擇}
+  - {type: variant, offset: 27896, length: 1, content: 非, 甲: 名非, 乙: 名非}
+  - {type: variant, offset: 27900, length: 1, content: 辨, 甲: '', 乙: ''}
+  - {type: variant, offset: 27902, length: 1, content: 名, 甲: '', 乙: ''}
+  - {type: variant, offset: 27938, length: 1, content: 准, 甲: 唯, 乙: 唯}
+  - {type: variant, offset: 27957, length: 1, content: 鄣, 甲: 彰, 乙: 彰}
+  - {type: variant, offset: 27974, length: 1, content: 起, 甲: 生, 乙: 生}
+  - {type: variant, offset: 28066, length: 1, content: 諸, 甲: 諸法, 乙: 諸法}
+  - {type: variant, offset: 28093, length: 1, content: 擇, 甲: 釋, 乙: 釋}
+  - {type: variant, offset: 28288, length: 1, content: 故, 甲: 何故, 乙: 何故}
+  - {type: variant, offset: 28450, length: 1, content: 障, 甲: 影, 乙: 影}
+  - {type: variant, offset: 28662, length: 1, content: 因, 乙: 自}
+  - {type: variant, offset: 28809, length: 1, content: 言, 大: 意}
+  - {type: variant, offset: 28843, length: 1, content: 時, 甲: '', 乙: ''}
+  - {type: variant, offset: 28887, length: 1, content: 用, 甲: 同, 乙: 同}
+  - {type: variant, offset: 28992, length: 1, content: 境, 甲: 壞, 乙: 壞}
+  - {type: variant, offset: 29017, length: 1, content: 定, 甲: 空定, 乙: 空定}
+  - {type: variant, offset: 29226, length: 1, content: 分, 甲: 立, 乙: 立}
+  - {type: variant, offset: 29316, length: 1, content: 後, 甲: '', 乙: ''}
+  - {type: variant, offset: 29406, length: 1, content: 後, 乙: 復}
+  - {type: variant, offset: 29526, length: 1, content: 為, 甲: 有為, 乙: 有為}
+  - {type: variant, offset: 29580, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 29765, length: 1, content: 語, 乙: ''}
+  - {type: variant, offset: 29767, length: 1, content: 者, 乙: 音}
+  - {type: variant, offset: 29914, length: 1, content: 雖, 大: 唯}
+  - {type: variant, offset: 29920, length: 1, content: 諸, 乙: 說}
+  - {type: variant, offset: 29964, length: 1, content: 名, 甲: 與名, 乙: 與名}
+  - {type: variant, offset: 30071, length: 1, content: 因, 乙: 同}
+  - {type: variant, offset: 30286, length: 1, content: 論, 甲: '', 乙: ''}
+  - {type: variant, offset: 30302, length: 1, content: 欲, 乙: 永}
+  - {type: variant, offset: 30501, length: 1, content: 從, 甲: 住, 乙: 住}
+  - {type: variant, offset: 30746, length: 1, content: 二《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第76圖右欄第4行）T41n1822_p0475b07, 大: 三, 甲: 二, 乙: 二}
+  - {type: variant, offset: 30825, length: 1, content: 蘊, 甲: 蘊蘊, 乙: 蘊蘊}
+  - {type: variant, offset: 30909, length: 1, content: 疑, 乙: 殺}
+  - {type: variant, offset: 30996, length: 1, content: 違, 甲: 名違, 乙: 名違}
+  - {type: variant, offset: 31031, length: 2, content: 名之《俱舍論疏》（日本國立公文書館藏明治二十年刊本第1冊第76圖左欄第7行）T29n1562_p0333a25, 大: 之, 甲: 名之, 乙: 名之}
+  - {type: variant, offset: 31053, length: 1, content: 名, 甲: 亦名, 乙: 亦名}
+  - {type: variant, offset: 31246, length: 1, content: 已, 甲: 皆乃已, 乙: 皆乃已}
+  - {type: variant, offset: 31459, length: 1, content: 非, 乙: 癡一切時非}
+  - {type: variant, offset: 31556, length: 1, content: 一, 甲: 非一, 乙: 非一}
+  - {type: variant, offset: 31644, length: 1, content: 令, 乙: 合}
+  - {type: variant, offset: 31687, length: 1, content: 有, 甲: 為有, 乙: 為有}
+  - {type: variant, offset: 31730, length: 136, content: '建久二十一十一日於三井寺南，此疏一部卅軸，是東南覺僧都深得對法之□□搜諸師意，讀難讀、訓難訓，而所切句付假名之點本也。誠是一寺規模、萬代寶物也。然當卷本自缺了，爰予悲法命漸盡，不顧鳥跡，所寫加也。雖然寫本文字極狼藉也，少少雖直之，多多謬難盡歟。隨後覽可直之。
+
+      壽永元年十月十二日於石山寺書寫了。　　　　弟子範賢，生年十九歲。', 甲: '', 乙: ''}
+  body: []
+  back: []
+hash: sha256:47820fb93aa5c8bd3ca9e00c235fd49bf399ef93483d9787dbdff82e7ffd532c

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 俱舍論疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T41/T41n1822.xml
+    old_id: T41n1822
+hash: sha256:7eefa6084b2ffc3de9e9704574e9d004e452b4ed28c3080a6229fac531970e99
